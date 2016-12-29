@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.2.0)
+  - ALCameraViewController (1.2.7)
+  - FDFullscreenPopGesture (1.1)
+  - Kingfisher (3.2.2)
+  - MBProgressHUD (1.0.0)
+  - MOBFoundation (2.2.3)
+  - PullToRefreshSwift (3.0.3)
+  - ShareSDK3 (3.5.2):
+    - ShareSDK3/ShareSDK (= 3.5.2)
+  - ShareSDK3/ShareSDK (3.5.2)
+  - ShareSDK3/ShareSDKPlatforms/Copy (3.5.2)
+  - ShareSDK3/ShareSDKPlatforms/QQ (3.5.2)
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo (3.5.2)
+  - ShareSDK3/ShareSDKPlatforms/WeChat (3.5.2)
+  - SnapKit (3.0.2)
+  - SwiftyJSON (3.1.3)
+  - Toaster (2.0.1)
+  - WebViewJavascriptBridge (5.0.5)
+  - XCGLogger (4.0.0):
+    - XCGLogger/Core (= 4.0.0)
+  - XCGLogger/Core (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - ALCameraViewController
+  - FDFullscreenPopGesture (~> 1.1)
+  - Kingfisher (~> 3.2.1)
+  - MBProgressHUD (~> 1.0.0)
+  - MOBFoundation
+  - PullToRefreshSwift
+  - ShareSDK3
+  - ShareSDK3/ShareSDKPlatforms/Copy
+  - ShareSDK3/ShareSDKPlatforms/QQ
+  - ShareSDK3/ShareSDKPlatforms/SinaWeibo
+  - ShareSDK3/ShareSDKPlatforms/WeChat
+  - SnapKit (~> 3.0.2)
+  - SwiftyJSON
+  - Toaster (~> 2.0)
+  - WebViewJavascriptBridge (~> 5.0)
+  - XCGLogger (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  ALCameraViewController: 4a513b8d5ecfdb3f34c50b1d469c373aae1ec7b4
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  Kingfisher: 821466474ad7ffc375a4aecadfa05068cfed67b3
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MOBFoundation: 2bc5cd7011a2db75cf2b3ceacb7f4227eec88f3e
+  PullToRefreshSwift: 0743b818072bfd7c9464addc2d1b987b131057ca
+  ShareSDK3: 08ed714e2bbdcd97ab60f58cb398227341dfc20a
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  SwiftyJSON: 38a8ea2006779c0fc4c310cb2ee8195327740faf
+  Toaster: be65cd48e93a525b2a9cc4bd25a2bfc900e02d9f
+  WebViewJavascriptBridge: a4d502315f1b8d9a51cd6a9174147ed567ec3bc5
+  XCGLogger: 38063ea89b4c8b23232d18efd2e12eb0005f3ea4
+
+PODFILE CHECKSUM: a9291223575ed59136ee4215e5bd5a16dfc87b9d
+
+COCOAPODS: 1.2.0.beta.1
